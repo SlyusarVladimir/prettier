@@ -1,4 +1,4 @@
----
+---npm install prettier
 id: install
 title: Install
 ---
